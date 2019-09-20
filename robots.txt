@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zefosathu.recmind.cn/sitemap.xml
